@@ -2,4 +2,4 @@
 
 <p>Un readme jeje xd</p>
 
-```npm install react```
+`npm install react`
